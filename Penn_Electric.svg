@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 443.09 395.45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f1645b;
+        font-family: Silom, Silom;
+        font-size: 98px;
+      }
+
+      .cls-2 {
+        fill: #a2a0a8;
+        font-family: DicoSlab-Bold, 'Dico Slab';
+        font-size: 38px;
+      }
+
+      .cls-3 {
+        fill: #fcf38d;
+        stroke: #f68b67;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #231f20;
+      }
+    </style>
+  </defs>
+  <g id="Layer_5" data-name="Layer 5">
+    <line class="cls-4" x1="46.09" y1="180.34" x2="299.64" y2="179.85"/>
+    <text class="cls-2" transform="translate(48.68 215.3)"><tspan x="0" y="0">ELECTRIC INC.</tspan></text>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <path class="cls-3" d="M111.63,178.14h48.82c3.32,0,5.68,3.24,4.66,6.4l-29.33,91.18c-1.72,5.36,5.47,8.92,8.68,4.3l96.25-138.17c2.26-3.25-.06-7.7-4.02-7.7h-49.74c-3.33,0-5.68-3.24-4.66-6.41L222.64,3.01c.55-1.69-1.74-2.79-2.73-1.32L107.56,170.52c-2.17,3.26,.17,7.61,4.08,7.61Z"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <text class="cls-1" transform="translate(38.36 178.06)"><tspan x="0" y="0">PENN</tspan></text>
+  </g>
+</svg>
